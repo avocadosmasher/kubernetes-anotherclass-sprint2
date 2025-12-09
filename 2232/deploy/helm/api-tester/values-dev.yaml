@@ -2,7 +2,7 @@
 replicaCount: 1
 
 image:
-  repository: avocadosmasher/api-tester
+  repository: rdd0426/api-tester
   pullPolicy: Always
   tag: 1.0.0
 
